@@ -1,3 +1,11 @@
 main {
+    transform: skewY(-10deg)
+}
 
+.wrapper {
+    position: absolute;     /*Positions container under Title*/
+}
+
+.info {
+    margin: auto;           /*Positions text in center of container*/
 }
