@@ -23,5 +23,6 @@ button {
 }
 
 button:hover {
+  color: ghostwhite; /*added to better contrast against background-color*/
   background-color: cornflowerblue;
 }
